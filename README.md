@@ -19,7 +19,7 @@ Following are the results of 6 predictive models for high risk loans.
 ![git-hub](https://github.com/MonaElahi/Credit_Risk_Analysis/blob/b3173e4b004157700bb41dab5687a5210650be51/Results/Oversampling%20Accuracy.PNG)
 ![git-hub](https://github.com/MonaElahi/Credit_Risk_Analysis/blob/b3173e4b004157700bb41dab5687a5210650be51/Results/Smote%20Oversampling.PNG)
 ![git-hub](https://github.com/MonaElahi/Credit_Risk_Analysis/blob/b3173e4b004157700bb41dab5687a5210650be51/Results/Smoteenn.PNG)
-1[git-hub](https://github.com/MonaElahi/Credit_Risk_Analysis/blob/b3173e4b004157700bb41dab5687a5210650be51/Results/Undersampling.PNG)
+![git-hub](https://github.com/MonaElahi/Credit_Risk_Analysis/blob/b3173e4b004157700bb41dab5687a5210650be51/Results/Undersampling.PNG)
 
 
 # Summmary
