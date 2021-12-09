@@ -12,4 +12,7 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 
 # Results
 
+Following are the results of 6 predictive models for high risk loans. 
+
+
 # Summmary
