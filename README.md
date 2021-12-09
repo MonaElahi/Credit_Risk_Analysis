@@ -14,12 +14,24 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 
 Following are the results of 6 predictive models for high risk loans. 
 
+### Balanced Random Forest
 ![git-hub](https://github.com/MonaElahi/Credit_Risk_Analysis/blob/b3173e4b004157700bb41dab5687a5210650be51/Results/Balanced%20Random%20Forest%20Classifier.PNG)
-![git-hub](https://github.com/MonaElahi/Credit_Risk_Analysis/blob/b3173e4b004157700bb41dab5687a5210650be51/Results/Easy%20Ensemble%20Adaboost%20Classifier.PNG)
-![git-hub](https://github.com/MonaElahi/Credit_Risk_Analysis/blob/b3173e4b004157700bb41dab5687a5210650be51/Results/Oversampling%20Accuracy.PNG)
-![git-hub](https://github.com/MonaElahi/Credit_Risk_Analysis/blob/b3173e4b004157700bb41dab5687a5210650be51/Results/Smote%20Oversampling.PNG)
-![git-hub](https://github.com/MonaElahi/Credit_Risk_Analysis/blob/b3173e4b004157700bb41dab5687a5210650be51/Results/Smoteenn.PNG)
+
+### Undersampling
 ![git-hub](https://github.com/MonaElahi/Credit_Risk_Analysis/blob/b3173e4b004157700bb41dab5687a5210650be51/Results/Undersampling.PNG)
+
+### Oversampling
+![git-hub](https://github.com/MonaElahi/Credit_Risk_Analysis/blob/b3173e4b004157700bb41dab5687a5210650be51/Results/Oversampling%20Accuracy.PNG)
+
+### Smote Oversampling
+![git-hub](https://github.com/MonaElahi/Credit_Risk_Analysis/blob/b3173e4b004157700bb41dab5687a5210650be51/Results/Smote%20Oversampling.PNG)
+
+### Smoteenn
+![git-hub](https://github.com/MonaElahi/Credit_Risk_Analysis/blob/b3173e4b004157700bb41dab5687a5210650be51/Results/Smoteenn.PNG)
+
+Easy Ensemble Adaboost
+![git-hub](https://github.com/MonaElahi/Credit_Risk_Analysis/blob/b3173e4b004157700bb41dab5687a5210650be51/Results/Easy%20Ensemble%20Adaboost%20Classifier.PNG)
+
 
 
 # Summmary
