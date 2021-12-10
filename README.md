@@ -16,6 +16,7 @@ Following are the results of 6 predictive models for high risk loans.
 
 ### Balanced Random Forest
 ![git-hub](https://github.com/MonaElahi/Credit_Risk_Analysis/blob/b3173e4b004157700bb41dab5687a5210650be51/Results/Balanced%20Random%20Forest%20Classifier.PNG)
+![git-hub](https://github.com/MonaElahi/Credit_Risk_Analysis/blob/179562c53440c4e460e8204d0829971533609806/Results+/RandonForest.PNG)
 
 ### Undersampling
 ![git-hub](https://github.com/MonaElahi/Credit_Risk_Analysis/blob/b3173e4b004157700bb41dab5687a5210650be51/Results/Undersampling.PNG)
