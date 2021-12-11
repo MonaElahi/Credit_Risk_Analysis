@@ -40,3 +40,9 @@ Following are the results of 6 predictive models for high risk loans.
 
 
 # Summary
+
+It is optimal requirement of credit lending company to predict credit risk, for that matter six models have been employed to access High-Risk applications.
+From results above, accuracy score for four models Undersampling, Oversampling, Smote Oversampling and Smoteenn is approx. 65% and other Balanced Random Forest at approx. 72%
+Finally Easy Ensemble Adaboost yielded 92% with high recall percentage. 
+
+To recommend best model is depends on which gives model maximum accuracy and in this case _Easy Ensemble AdaBoost_ would be best technique to employ. 
